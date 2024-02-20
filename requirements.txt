@@ -1,4 +1,5 @@
 numpy<=1.23.5
+opencv-python==4.8.0.74
 onnx
 onnxsim
 opencv-python
