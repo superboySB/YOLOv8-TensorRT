@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # Initialize a YOLO-World model
-model = YOLO('yolov8s-world.pt')  # or select yolov8m/l-world.pt
+model = YOLO('yolov8s-worldv2.pt')  # or select yolov8m/l-world.pt
 
 # Define custom classes
 model.set_classes(["person", "bus"])
